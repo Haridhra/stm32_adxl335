@@ -1,0 +1,2 @@
+millis.c:10:10:millis	8	static
+millis.c:14:6:delay_ms	16	static

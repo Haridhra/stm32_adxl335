@@ -1,0 +1,2 @@
+stm32_uart_console.c:17:6:MX_USART2_UART_Init	8	static
+stm32_uart_console.c:61:6:debug_console_log	120	static

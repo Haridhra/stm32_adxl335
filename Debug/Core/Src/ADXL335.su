@@ -1,0 +1,10 @@
+ADXL335.c:40:16:map	24	static
+ADXL335.c:48:6:check_accel_dir	24	static
+ADXL335.c:105:6:adc_conv_complete_custom_cb	4	static
+ADXL335.c:112:6:adxl335_init	24	static
+ADXL335.c:125:6:adxl355_deinit	8	static
+ADXL335.c:129:6:register_mold_state_cb	16	static
+ADXL335.c:134:17:get_mold_state	4	static
+ADXL335.c:138:6:set_fw_accel_trigger	16	static
+ADXL335.c:144:6:set_bw_accel_trigger	16	static
+ADXL335.c:150:6:set_accel_interval	16	static
